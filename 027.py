@@ -16,4 +16,4 @@ print(turmas)
 
 soma = sum(turmas)
 mediaDeAlunos = soma / qtdTurmas
-print("média de alunos é:", mediaDeAlunos)
+print("média de alunos é: %.2f" %mediaDeAlunos)
